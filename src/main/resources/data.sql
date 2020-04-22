@@ -1,0 +1,1 @@
+INSERT INTO `user`(`user_id`, `password`, `is_verified`) VALUES ('testUser', 'testPassword', 'T');
